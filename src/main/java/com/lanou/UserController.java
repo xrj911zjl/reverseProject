@@ -5,5 +5,5 @@ package com.lanou;
  */
 public class UserController {
 
-
+        //就是这样
 }
